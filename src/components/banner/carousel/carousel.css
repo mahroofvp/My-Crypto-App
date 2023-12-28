@@ -1,0 +1,16 @@
+.banner-carousel-contents-div{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    flex-direction: column;
+    
+    
+}
+.banner-carousel-singleitem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: white;
+}

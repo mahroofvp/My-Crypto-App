@@ -1,0 +1,20 @@
+.coins-table-input{
+    border: solid;
+    border-color:white;
+    margin-bottom: 23px;
+    width: 100%;
+    color: white;
+    outline: none;
+}
+
+.coinstable-table-row{
+    background-color: #16171a;
+    cursor: pointer;
+    
+}
+.coinstable-table-row:hover {
+    background-color:#131111 ;
+}
+.Pagination {
+    color: gold;
+}
