@@ -1,4 +1,4 @@
-My Crypto - Crypto Tracking App
+My Crypto App - Crypto Tracking App
 --------------------------------
 
 My Crypto is a user-friendly crypto tracking app that allows you to stay updated on the latest trends, prices, and historical data of various cryptocurrencies. With this app, you can easily search for trending cryptocurrencies, view their current prices, and explore detailed historical price charts to make informed decisions.
@@ -16,10 +16,10 @@ User-friendly Interface: My Crypto is designed with a clean and intuitive interf
 > Installation
 Clone the Repository:
 
-git clone https://github.com/mahroofvp/my-crypto.git
+git clone https://github.com/mahroofvp/My-Crypto-App/tree/main
 Navigate to the Project Directory:
 
-cd my-crypto
+
 Install Dependencies:
 
 npm install
